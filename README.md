@@ -9,3 +9,6 @@
 ### Day 2
 - Data Cleaning, using Data interpreter. Splitting columns, Renaming. Column or Bar chart for marketwise sales and profit.
 - Adding appropriate format like percentage for discounts, currency for sales and profit. Saving the updated data source.
+
+### Day 3
+- Combining Data
