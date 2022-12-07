@@ -11,4 +11,12 @@
 - Adding appropriate format like percentage for discounts, currency for sales and profit. Saving the updated data source.
 
 ### Day 3
-- Combining Data
+- Combining Data, Editing Relationships, Single Data Source, Multiple Data connections and performing Table Joins,  
+- Performing different joins on the tables in Tableau - Inner Join, Full Outer Join, Left and Right Join.
+- Unions to increase the number of rows - different months data in different sheets or tables could be combined using Unions.
+
+### Day 4
+- Data Extracts - a local copy of the data source that is fast to access. (Creates .hyper file) Restricted view of the data.
+- Refreshing and Filtering the Data and providing a subset of the data - hiding unused fields and updating extracts.
+- Pros - Speed, Portability, Sharing, Include and Exclude subsets of Data
+- Cons - Security Risk, Not a live connection, Need for Refresh. 
