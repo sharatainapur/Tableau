@@ -27,3 +27,4 @@
 - Bar in a Bar Chart - effective to depict KPI or metrics like Sales and Sales target etc. Useful for comparison and mainly in KPI trick.
 - Crosstab or Highlight Table (Crosstab + Color) for visualizing data in tabular format. Identifying highest and lowest by color code and using Mark Types as square. 
 - Scatter plot or Bubble chart - needs 2 continous measures, use of detail and mark-type. Additionally learnt about trend line and annotations and pages to create animations. 
+* Added Tableau packaged workbook as it contains the data source and the worksheets.
