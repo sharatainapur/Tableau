@@ -28,3 +28,12 @@
 - Crosstab or Highlight Table (Crosstab + Color) for visualizing data in tabular format. Identifying highest and lowest by color code and using Mark Types as square. 
 - Scatter plot or Bubble chart - needs 2 continous measures, use of detail and mark-type. Additionally learnt about trend line and annotations and pages to create animations. 
 * Added Tableau packaged workbook as it contains the data source and the worksheets.
+
+### Day 6
+- Calculated Fields - to transform data and to add extra columns to data. 
+- String functions such as Lower and Upper , Cross Database Joins - for having matching fields in two datasets - Eg: SOUTH and INDIA-SOUTH (Split Function)
+- Running Sum in Table Calculations - exists just in the view and not in data measure or dimensions. 
+- Quick Table calculations and Direct Table calculations. Percentage of total and *Level of Detail calculations. 
+- Calculate Time Directions - Date Diff Function and IF CASE calculations for profit loss. 
+- Text or Cross Table calculations having DIRECTIONS grand totals ACROSS, DOWN and for TABLE. 
+* Added Day 6 Tableau packaged workbook with 4 sheets.
