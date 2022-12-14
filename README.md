@@ -37,3 +37,11 @@
 - Calculate Time Directions - Date Diff Function and IF CASE calculations for profit loss. 
 - Text or Cross Table calculations having DIRECTIONS grand totals ACROSS, DOWN and for TABLE. 
 * Added Day 6 Tableau packaged workbook with 4 sheets.
+
+### Day 7
+- Usage of Mapping Data in visualization. Different Types: Area Map (Marktype - MAP), Symbol Map (Pie, Scatter) - (Marktype - Pie or Automatic)
+- Customise looks of maps by editing the Mapping Layers and Style.
+- Using location coordinates and changing data type for plotting maps - latitude and longitude coordinates and addition of new rows by using annotations. 
+- Spatial Calculations - learnt about MAKEPOINT(), MAKELINE() and BUFFER() functions in calculations. 
+- Performed a custom split to fetch the state names from the City, State column and created charts for Sales by Segment in USA (Symbol Map).
+* Added Day 7 Tableau workbook with 2 sheets.
